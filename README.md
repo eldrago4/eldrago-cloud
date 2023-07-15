@@ -1,4 +1,5 @@
 # eldrago-cloud -- My First Own Personal Website!
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/eldrago4/eldrago-cloud/tree/master)		[![Latest Release](https://img.shields.io/github/v/release/bard/bard.svg)](https://github.com/bard/bard/releases)		[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@eldrago.cloud)
 
 **My Personal Website** 🚀
 
