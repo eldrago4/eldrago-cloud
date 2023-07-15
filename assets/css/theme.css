@@ -512,6 +512,9 @@ progress {
     border: 1px solid #dee2e6;
     border-radius: 0.5rem;
 }
+.logo{
+    margin-left: 11px;
+}
 .figure {
     display: inline-block;
 }
@@ -17206,6 +17209,8 @@ hr.horizontal.gray-light {
         margin-bottom: 0 !important;
     }
     .g-sidenav-hidden .navbar-vertical .card.card-background .docs-info {
+
+        position: absolute;
         opacity: 0;
         width: 0;
         height: 0;
@@ -17255,6 +17260,7 @@ hr.horizontal.gray-light {
         margin-bottom: 1rem !important;
     }
     .g-sidenav-hidden .navbar-vertical:hover .card.card-background .docs-info {
+        position: absolute;
         opacity: 1;
         width: auto;
         height: auto;
