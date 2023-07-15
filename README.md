@@ -1,5 +1,8 @@
 # eldrago-cloud -- My First Own Personal Website!
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/eldrago4/eldrago-cloud/tree/master)		[![Latest Release](https://img.shields.io/github/v/release/bard/bard.svg)](https://github.com/bard/bard/releases)		[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@eldrago.cloud)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/license/eldrago4/eldrago-cloud/)		[![Latest Release](https://img.shields.io/github/v/release/bard/bard.svg)](https://github.com/bard/bard/releases)		[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@eldrago.cloud)		[![Discord](https://img.shields.io/badge/Discord-%F0%9D%96%8A%F0%9D%96%8B%F0%9D%96%87%F0%9D%96%8C%F0%9D%96%8F%F0%9D%96%94.%236586-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/433143285847031838)		[![HTML](https://img.shields.io/badge/HTML5-E34F27.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+		[![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+
+
 
 **My Personal Website** 🚀
 
